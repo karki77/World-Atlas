@@ -1,20 +1,20 @@
 [
     {
      "icon": "MdPlace",
-     "title":  "Find us",
+     "title":  "Find me",
      "details": "Kathmandu, Nepal"
     },
 
     {
      "icon": "IoCallSharp",
-     "title":  "Call us",
-     "details": "45131456466"
+     "title":  "Call me",
+     "details": "9706128845"
     },
 
     {
       "icon": "TbMailPlus",
-      "title":  "Mail us",
-      "details": "contact@karki.org"
+      "title":  "Mail me",
+      "details": "karkikuber5@gmail.com"
     }
 
 ]
