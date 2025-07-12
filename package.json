@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "cross-env NODE_OPTIONS=--max-old-space-size=2048 vite",
+    "start": "npm run build && npm run preview",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
